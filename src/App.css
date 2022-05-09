@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  }
+  .home,
+  .services,
+  .reports,
+  .contact,
+  .events,
+  .support {
+  display: flex;
+  margin-left: 260px;
+  font-size: 2rem;
+  }
+  #page-wrap {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color:whitesmoke;
+    text-align: center;
+  }
+  * {
+    box-sizing: border-box;
+  }
+  
